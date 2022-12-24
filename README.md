@@ -46,6 +46,11 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaopauloBogo}/count.svg" /></p> 
 <br></div>
+ 
+  <div align="center">
+
+  ![Snake animation](https://github.com/joaopauloBogo/joaopauloBogo/blob/output/github-contribution-grid-snake.svg)
   
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
